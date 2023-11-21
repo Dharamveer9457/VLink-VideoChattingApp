@@ -1,6 +1,4 @@
-# VLink - Real Time Video and Chat Application
-
-![Vlink](./Client/Images/logo.jpg)
+![logo](https://github.com/Dharamveer9457/VLink-VideoChattingApp/assets/115460337/23e012b3-038c-4e3a-b5be-68da1c5bedd5)
 
 # VLink - Real Time Video and Chat Application
 

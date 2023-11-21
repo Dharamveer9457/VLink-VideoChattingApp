@@ -76,7 +76,7 @@ It includes features that allows user to chat and video call with each other.**
 
 2. Dharamveer
 
-   > - e-Mail:dharamveer945734.com
+   > - e-Mail:dharamveer945734@gmail.com
    > - GitHub: https://github.com/Dharamveer9457
 
 3. Sambhaji Dhore

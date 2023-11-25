@@ -7,7 +7,7 @@
 Vlink is a type of application that enables users to connect with others in real-time over the internet.
 It includes features that allows user to chat and video call with each other.**
 
-## Deployment Link - https://vlink-app.vercel.app/
+## Deployment Link - https://vlinkapp.netlify.app/
 
 ## Tech Stack
 
